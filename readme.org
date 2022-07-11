@@ -1,4 +1,4 @@
-#+title: xmobar is now at https://codeberg.org/jao/xmobar
+#+title: xmobar is now at https://codeberg.org/xmobar/xmobar
 
 * Project moved to Codeberg
 
