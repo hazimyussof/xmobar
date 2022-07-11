@@ -2,7 +2,7 @@
 
 * Project moved to Codeberg
 
-This project is currently [[https://codeberg.org/jao/xmobar/][hosted on Codeberg]].  Hosting in Github is not ideal;
+This project is currently [[https://codeberg.org/xmobar/xmobar/][hosted on Codeberg]].  Hosting in Github is not ideal;
 GitHub is a proprietary, trade-secret system that is not Free and Open Souce
 Software (FOSS).  We are deeply concerned about using a proprietary system
 like GitHub to develop our FOSS project.  We have [[issue#636][an open issue]] where the
