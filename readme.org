@@ -5,8 +5,8 @@
 This project is currently [[https://codeberg.org/xmobar/xmobar/][hosted on Codeberg]].  Hosting in Github is not ideal;
 GitHub is a proprietary, trade-secret system that is not Free and Open Souce
 Software (FOSS).  We are deeply concerned about using a proprietary system
-like GitHub to develop our FOSS project.  We have [[issue#636][an open issue]] where the
-project contributors are actively discussing how we moved away from GitHub.
+like GitHub to develop our FOSS project.  We have [[https://github.com/jaor/xmobar/issues/636][an issue]] where the
+project contributors discussed how we moved away from GitHub.
 We urge you to read about the [[https://GiveUpGitHub.org][Give up campaign]] from the [[https://sfconservancy.org][Software Freedom
 Conservancy]] to understand some of the reasons why GitHub is not a good place
 to host FOSS projects.
